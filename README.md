@@ -13,7 +13,7 @@ The project is organized into clear, sequential stages:
 Data Loading and Exploration — load the Telco Customer Churn dataset and inspect its structure, summary info, and missing values.
 Data Cleaning and Preprocessing — handle missing values, encode categories, and prepare the data for modeling.
 Train-Test Split and Scaling — split the data into training and test sets and scale features.
-Model Training and Evaluation — train a Random Forest classifier and evaluate performance (~89% accuracy).
+Model Training and Evaluation — train a Random Forest classifier and evaluate performance (~79% accuracy).
 Feature Importance Visualization — plot the top 10 features influencing churn.
 Exporting Results for Power BI Visualization — export predictions and insights for dashboarding.
 Key Results
