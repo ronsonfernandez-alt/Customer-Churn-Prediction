@@ -17,7 +17,7 @@ Model Training and Evaluation — train a Random Forest classifier and evaluate 
 Feature Importance Visualization — plot the top 10 features influencing churn.
 Exporting Results for Power BI Visualization — export predictions and insights for dashboarding.
 Key Results
-Achieved approximately 89% accuracy in predicting customer churn.
+Achieved approximately 79% accuracy in predicting customer churn.
 Surfaced the top 10 drivers of churn through Random Forest feature importance.
 Delivered Power BI dashboards for churn insights and retention strategy visualization.
 Tech Stack
