@@ -3,6 +3,7 @@ data.replace(" ", np.nan, inplace=True)
 
 # Drop missing values or impute as needed
 data.dropna(inplace=True)
+data = data.drop(columns=["customerID"])
 
 # Encode categorical variables
 from sklearn.preprocessing import LabelEncoder
