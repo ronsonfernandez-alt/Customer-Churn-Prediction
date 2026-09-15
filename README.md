@@ -1,6 +1,6 @@
 Customer Churn Prediction
 
-A predictive analytics project that identifies customers likely to churn using behavioral and transactional data. The workflow covers exploratory data analysis, feature engineering, and machine learning modeling in Python with a Random Forest classifier, reaching approximately 89% accuracy, and exports results for Power BI dashboards that visualize churn insights and support retention strategy.
+A predictive analytics project that identifies customers likely to churn using behavioral and transactional data. The workflow covers exploratory data analysis, feature engineering, and machine learning modeling in Python with a Random Forest classifier, reaching approximately 79% accuracy, and exports results for Power BI dashboards that visualize churn insights and support retention strategy.
 
 Overview
 
